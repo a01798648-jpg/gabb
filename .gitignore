@@ -1,0 +1,5 @@
+# Ignorar archivos de C++
+*.exe
+*.obj
+*.o
+*.out
